@@ -4,7 +4,9 @@ Siyi Lin
 
 # Why: Explain the purpose of the search engine and what difference you can make.
 
-Our project is to build a simple search engine for the ramen enthusiasm by using Elasticsearch Kibana. Reman: as one of the best foods in this world is becoming more and more popular in worldwide range. Not only for Japanese people but also for people with different races and nations. In this growing trend, reman industry is getting popular; however, it’s becoming hard for reman fans to find the reman product they want. We want to build a simple search engine to help customer make their decisions easier based on the previous reviews.
+Our project is to build a simple search engine for the ramen enthusiasm by using Elasticsearch Kibana. 
+
+Reman: as one of the best foods in this world is becoming more and more popular in worldwide range. Not only for Japanese people but also for people with different races and nations. In this growing trend, reman industry is getting popular; however, it’s becoming hard for reman fans to find the reman product they want. We want to build a simple search engine to help customer make their decisions easier based on the previous reviews.
 
 # What: Describe the data and domain in which you build the search engine index.
 
