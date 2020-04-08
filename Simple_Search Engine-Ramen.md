@@ -22,7 +22,7 @@ It contains 7 attributes with 2580 instances. Each instance records a single ins
 
 
 # How do we conduct the project
-There are two team members, Shuai Teng and Siyi Lin, in this project. Each member will create 3 use cases and explore the dataset by Kibana, later we will see our results.
+In this project, we will create 3 use cases and explore the dataset by Elasticsearch Kibana, later we will see our results.
 
 Three use cases for Siyi Lin & the analysis with results
 
@@ -31,16 +31,6 @@ Three use cases for Siyi Lin & the analysis with results
 3. find any Japeness curry noodle in the cup
 
 
-
-Three use cases for Teng Shuai & the analysis with results
-
-1. Online food order  
-2. Reman noodles restaurant 
-3. Homemade reman
-
-Due to the different working environment for two of us, our report is merged from two format into one. 
-
-The following is from Siyi Lin:
 
 # Who: Explain whom your search engines may serve and their basic information needs.
 This search engine is open for everyone acccess.
