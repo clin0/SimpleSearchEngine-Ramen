@@ -1,4 +1,4 @@
-# INFO 624 Final Project </br> Search Engine Building - Instant Ramen Noodles Rating 
+# INFO 624 Project </br> Search Engine Building - Instant Ramen Noodles Rating 
 Siyi Lin
 
 
